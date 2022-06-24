@@ -1,0 +1,2 @@
+https://memories-atharva.netlify.app/
+https://memories-atharva.herokuapp.com/posts
